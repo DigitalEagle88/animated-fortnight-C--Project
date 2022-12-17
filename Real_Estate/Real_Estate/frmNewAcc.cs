@@ -15,6 +15,7 @@ namespace Real_Estate
         public frmNewAcc()
         {
             InitializeComponent();
+            int a;
         }
         private Boolean Validation()
         {
