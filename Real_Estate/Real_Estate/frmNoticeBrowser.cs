@@ -19,7 +19,7 @@ namespace Real_Estate
         {
             InitializeComponent();
             Accesslvl = accesslvl;
-            Userid = userid;            
+            Userid = userid;
         }
 
 
@@ -43,8 +43,11 @@ namespace Real_Estate
                 this.Text = "Welcome " + name + "!";
             }
         }
-        
 
+        private void frmNoticeBrowser_FormClosed(object sender, FormClosedEventArgs e)
+        {
+             
+        }
     }
 
 

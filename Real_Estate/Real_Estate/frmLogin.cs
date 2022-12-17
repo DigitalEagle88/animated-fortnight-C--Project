@@ -20,7 +20,10 @@ namespace Real_Estate
         private void btnNewAcc_Click(object sender, EventArgs e)
         {
             frmNewAcc frmNA = new frmNewAcc();
-            frmNA.Show();
+            this.Hide();
+            frmNA.ShowDialog();
+            this.Show();
+
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
@@ -45,13 +48,17 @@ namespace Real_Estate
             //userid = Convert.ToInt32(Program.Cmd.ExecuteScalar());
 
             frmNoticeBrowser frmNB = new frmNoticeBrowser(useraccesslevel, userid);
-            frmNB.Show(); 
+            this.Hide();
+            frmNB.ShowDialog();
+            this.Show();
         }
 
         private void btnGuest_Click(object sender, EventArgs e)
         {
             frmNoticeBrowser frmNB = new frmNoticeBrowser(0,0);
-            frmNB.Show();
+            this.Hide();
+            frmNB.ShowDialog();
+            this.Show();
         }
 
         private Boolean Validation()
@@ -75,6 +82,11 @@ namespace Real_Estate
             }
             
 
+        }
+
+        private void frmLogin_Load(object sender, EventArgs e)
+        {
+             
         }
     }
 }
