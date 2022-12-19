@@ -47,10 +47,10 @@ namespace Real_Estate
 
             if (message.Length > 4)
             {
-                MessageBox.Show(message); //Icon Error be in ezafe kon  ("_")
-                return true;
+                MessageBox.Show(message + " Is Already In Use!"); //Icon Error be in ezafe kon  ("_")
+                return false;
             } 
-            else { return false; }
+            else { return true; }
 
         }
 
@@ -58,7 +58,7 @@ namespace Real_Estate
         {   
             //Baraye Hame Text Box Ha Validation Lazem Ro Benevis  ("_")
             //Baraye Hamkhani Password Validation Benevis (hamrah ba msgbox)  ("_")
-            if (Validation()) { return; }
+            if (Validation() == false) { return; }
             int success = 0;
             Program.Cmd.Parameters.Clear();
             Program.Cmd.CommandText = "INSERT INTO Users(User_First_Name ,User_Last_Name ,User_Phone ,User_Email ,User_National_Code ,User_Passwrod) Values (?,?,?,?,?,?)";

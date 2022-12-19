@@ -24,3 +24,16 @@ C:\Users\DE88\Desktop\Projects\Real_Estate\Real_Estate\obj\Debug\Real_Estate.csp
 C:\Users\DE88\Desktop\Projects\Real_Estate\Real_Estate\obj\Debug\Real_Estate.csproj.CoreCompileInputs.cache
 C:\Users\DE88\Desktop\Projects\Real_Estate\Real_Estate\obj\Debug\Real_Estate.exe
 C:\Users\DE88\Desktop\Projects\Real_Estate\Real_Estate\obj\Debug\Real_Estate.pdb
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\bin\Debug\Real_Estate.exe.config
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\bin\Debug\Real_Estate.exe
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\bin\Debug\Real_Estate.pdb
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\obj\Debug\Real_Estate.csprojAssemblyReference.cache
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\obj\Debug\Real_Estate.Base_Form.resources
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\obj\Debug\Real_Estate.frmLogin.resources
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\obj\Debug\Real_Estate.frmNewAcc.resources
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\obj\Debug\Real_Estate.frmNoticeBrowser.resources
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\obj\Debug\Real_Estate.Properties.Resources.resources
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\obj\Debug\Real_Estate.csproj.GenerateResource.cache
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\obj\Debug\Real_Estate.csproj.CoreCompileInputs.cache
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\obj\Debug\Real_Estate.exe
+C:\Users\DE88\Documents\GitHub\animated-fortnight-C--Project\Real_Estate\Real_Estate\obj\Debug\Real_Estate.pdb
